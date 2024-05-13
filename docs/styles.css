@@ -3,7 +3,7 @@
     src: url(KOLAK.otf);
     }
 
-    h1 {
+    h2, .intro, .tabel, p, .formulir label , .formulir button, footer, h3 {
     font-family: Kolak;
     }
 
@@ -12,7 +12,7 @@
     src: url(Most\ Heroes.ttf);
     }
 
-    h2, .intro, .tabel, p, .formulir label , .formulir button, footer, h3   {
+    h1 {
     font-family: Most Heroes;
     }
 
