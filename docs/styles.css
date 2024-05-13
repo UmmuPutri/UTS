@@ -3,17 +3,17 @@
     src: url(KOLAK.otf);
     }
 
-    h2, .intro, .tabel, p, .formulir label , .formulir button, footer, h3 {
+    h1 {
     font-family: Kolak;
     }
 
 @font-face {
-    font-family: Most Heroes;
-    src: url(Most\ Heroes.ttf);
+    font-family: The_Hoca;
+    src: url(The_Hoca.ttf);
     }
 
-    h1 {
-    font-family: Most Heroes;
+    h2, .intro, .tabel, p, .formulir label , .formulir button, footer, h3{
+    font-family: The_Hoca;
     }
 
 body {
