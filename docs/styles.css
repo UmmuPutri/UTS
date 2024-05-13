@@ -9,7 +9,7 @@
 
 @font-face {
     font-family: The_Hoca;
-    src: url(The_Hoca[1].ttf);
+    src: url(The\ Hoca.ttf);
     }
 
     h2, .intro, .tabel, p, .formulir label , .formulir button, footer, h3{
